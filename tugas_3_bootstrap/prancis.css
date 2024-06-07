@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+p, .konten{
+    margin-top: 30px;
+    font-family: "Montserrat", sans-serif;
+    color: #D3D3D3;
+}
+body{
+    background-color: #202124;
+}
+.konten {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+.konten img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+}
+a{
+    color: #D3D3D3;
+}
+a:hover{
+    color: #778899;
+}
